@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472507350420",
+    "firebase_url": "https://cafeteria-fdc92.firebaseio.com",
+    "project_id": "cafeteria-fdc92",
+    "storage_bucket": "cafeteria-fdc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472507350420:android:9a1397f45478a14ad4a381",
+        "android_client_info": {
+          "package_name": "com.example.cafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472507350420-jqk0d29dm0ibvk7adroch6uhr3aig6u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0P6Uu7PMRC1egO6Um1pxbnLTuk4E--10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472507350420-jqk0d29dm0ibvk7adroch6uhr3aig6u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

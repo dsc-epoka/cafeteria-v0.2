@@ -1,0 +1,31 @@
+import 'package:flutter/material.dart';
+
+const lightPrimary = Color(0xfff4f4f4);
+const lightPrimaryLight = Color(0xfff8f8f8);
+const lightPrimaryDark = Color(0xffdddddd);
+const lightSecondary = Color(0xff101010);
+const lightSecondaryLight = Color(0xff141414);
+const lightSecondaryDark = Color(0xff0d0d0d);
+const lightSurface = Color(0xfff8f8f8);
+const lightBackground = Color(0xff101010);
+const lightError = Color(0xffdd2f0a);
+const lightOnPrimary = Color(0xff0d0d0d);
+const lightOnSecondary = Color(0xfff2f2f2);
+const lightOnSurface = Color(0xff101010);
+const lightOnBackground = Color(0xffdcdcdc);
+const lightOnError = Color(0xffffffff);
+
+const darkPrimary = lightSecondaryDark;
+const darkPrimaryLight = lightSecondaryLight;
+const darkPrimaryDark = lightSecondaryDark;
+const darkSecondary = lightPrimary;
+const darkSecondaryLight = lightPrimaryLight;
+const darkSecondaryDark = lightPrimaryDark;
+const darkSurface = lightSecondary;
+const darkBackground = lightOnBackground;
+const darkError = lightError;
+const darkOnPrimary = lightPrimary;
+const darkOnSecondary = lightSecondary;
+const darkOnSurface = lightSurface;
+const darkOnBackground = lightBackground;
+const darkOnError = lightOnError;
