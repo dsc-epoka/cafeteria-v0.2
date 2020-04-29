@@ -44,7 +44,7 @@ class OrderView extends StatelessWidget {
             spacer: Spacer(),
             children: <Widget>[
               Text(
-                '${_orderBloc.orderTotal} LEK',
+                '${_orderBloc.orderTotal} ALL',
                 style: TextStyle(
                   fontSize: 18,
                   // fontWeight: FontWeight.bold,
