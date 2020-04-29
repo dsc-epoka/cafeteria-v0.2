@@ -24,7 +24,7 @@ class HistoryView extends StatelessWidget {
             spacer: Spacer(),
             children: <Widget>[
               Text(
-                'Total: ${_orderBloc.allOrdersTotal} LEK',
+                'Total: ${_orderBloc.allOrdersTotal} ALL',
                 style: TextStyle(
                   fontSize: 18,
                   // fontWeight: FontWeight.bold,
@@ -95,7 +95,7 @@ class HistoryView extends StatelessWidget {
                         ),
                         title:
                             Text('${product.displayName} x${_order[product]}'),
-                        subtitle: Text('${product.price} LEK'),
+                        subtitle: Text('${product.price} ALL'),
                       ),
                   ],
                 );
